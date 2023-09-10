@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Pablo Ezequiel López</h1>
-<h3 align="center">Realice un curso de desarrollo web fullStack en la UTN</h3>
+<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=paulhack23&label=Profile%20views&color=0e75b6&style=flat" alt="paulhack23" /> </p>
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=paulhack23&label=Profile%20views&color=0e75b6&style=flat" alt="paulhack23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-phie"><img src="https://github-profile-phie.vercel.app/?username=paulhack23" alt="paulhack23 " /></a> </p>
+<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=paulhack23" alt="paulhack23" />< /a> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
